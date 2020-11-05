@@ -1,4 +1,5 @@
-# auroscholar
+# Flutter UI Wallet Screen
+
 
 A new Flutter project.
 
